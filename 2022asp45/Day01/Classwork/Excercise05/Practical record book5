@@ -1,0 +1,17 @@
+Date: 12.03.2025
+
+Practical Number: 05
+
+Implementation:  class ex5{
+	  public static void main(String[] args)
+	  {
+	  System.out.println("First Name: Dishany \nLast Name: Suntharalingam\nAddress: Kaluthavalai,Batticaloa.");
+      
+	  }
+              }	
+Output: 
+First Name: Dishany
+Last Name: Suntharalingam
+Address: Kaluthavalai,Batticaloa.
+
+Conclusion: I have learnt the program in java to Reduce the code lines.
