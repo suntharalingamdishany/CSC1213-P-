@@ -1,5 +1,9 @@
 Date: 12.03.2025
+
 Practical Number: 04
+
+problem specification:How to string in java program
+
 Implementation:  class ex4{
       public static void main(String[] args)
 	  {
