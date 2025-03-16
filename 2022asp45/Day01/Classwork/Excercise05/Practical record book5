@@ -2,6 +2,8 @@ Date: 12.03.2025
 
 Practical Number: 05
 
+problem specification:How to reduce the code line in java
+
 Implementation:  class ex5{
 	  public static void main(String[] args)
 	  {
