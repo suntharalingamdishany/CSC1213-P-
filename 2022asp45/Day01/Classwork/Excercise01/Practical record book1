@@ -1,5 +1,9 @@
 Date: 12.03.2025
+
 Practical Number: 01
+
+problem specification:print "My first program in java" and "Hello java developers!!!"
+
 Implementation: class ex1{
     public static void main(String[] args)
         {
