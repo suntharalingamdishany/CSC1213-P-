@@ -2,6 +2,8 @@ Date: 12.03.2025
 
 Practical Number: 07
 
+problem specification:How to use arithmetic operators in java pogram
+
 Implementation:   class ex7{
         public static void main(String[] args)
 		{
