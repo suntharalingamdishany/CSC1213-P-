@@ -2,6 +2,8 @@ Date:12.03.2025
 
 Practical Number:08
 
+problem specification: How to use the operators in java program
+
 Implementation: class  Homework1{
      public static void main(String[] args)
 	 {
